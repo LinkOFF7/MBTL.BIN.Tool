@@ -4989,6 +4989,16 @@ grpdat/icon/3200.dds
 grpdat/icon/3201.dds
 grpdat/icon/3202.dds
 grpdat/icon/3203.dds
+grpdat/icon/3300.dds
+grpdat/icon/3301.dds
+grpdat/icon/3302.dds
+grpdat/icon/3303.dds
+grpdat/icon/3304.dds
+grpdat/icon/3305.dds
+grpdat/icon/3306.dds
+grpdat/icon/3307.dds
+grpdat/icon/3308.dds
+grpdat/icon/3309.dds
 grpdat/icon/4000.dds
 grpdat/icon/4001.dds
 grpdat/icon/4002.dds
@@ -5271,6 +5281,7 @@ grpdat/Network/network_icon00.dds
 grpdat/Network/network_icon01.dds
 grpdat/Network/network_list00.dds
 grpdat/Network/network_stage_sam00.dds
+grpdat/Network/network_stage_sam01.dds
 grpdat/Network/network_table00.dds
 grpdat/Network/replay00.pat
 grpdat/Network/room_chip/room00.dds
@@ -5347,6 +5358,8 @@ grpdat/plate/2022.dds
 grpdat/plate/3000.dds
 grpdat/plate/3001.dds
 grpdat/plate/3002.dds
+grpdat/plate/3010.dds
+grpdat/plate/3011.dds
 grpdat/plate_t/0000.dds
 grpdat/plate_t/0001.dds
 grpdat/plate_t/0002.dds
