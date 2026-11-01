@@ -24,3 +24,4 @@ Tool for extract BIN archives from game - [MELTY BLOOD: TYPE LUMINA](https://sto
 | data017.bin | ___Spanish |
 | data018.bin | Append_0 (BattleRes) |
 | data019.bin | Append_1 (grpdat) |
+| data020.bin | titleBanner |
